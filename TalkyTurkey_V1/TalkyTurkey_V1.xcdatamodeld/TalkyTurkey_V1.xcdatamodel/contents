@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19206" systemVersion="20G165" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CorrectAnswer" representedClassName="CorrectAnswer" syncable="YES" codeGenerationType="class"/>
+    <entity name="Entity" representedClassName="Entity" syncable="YES" codeGenerationType="class"/>
+    <entity name="Option" representedClassName="Option" syncable="YES" codeGenerationType="class"/>
+    <entity name="Question" representedClassName="Question" syncable="YES" codeGenerationType="class"/>
+    <entity name="Test" representedClassName="Test" syncable="YES"/>
+    <elements>
+        <element name="Test" positionX="-180.8336181640625" positionY="-132.1496276855469" width="128" height="29"/>
+        <element name="CorrectAnswer" positionX="-25.00982666015625" positionY="155.4898071289062" width="128" height="29"/>
+        <element name="Option" positionX="66.78900146484375" positionY="-150.5527648925781" width="128" height="29"/>
+        <element name="Question" positionX="187.6024780273438" positionY="17.91192626953125" width="128" height="29"/>
+        <element name="Entity" positionX="9" positionY="9" width="128" height="29"/>
+    </elements>
+</model>

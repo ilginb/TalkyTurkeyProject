@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-TalkyTurkey_V1/Pods-TalkyTurkey_V1-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/OSSSpeechKit/OSSSpeechKit.framework

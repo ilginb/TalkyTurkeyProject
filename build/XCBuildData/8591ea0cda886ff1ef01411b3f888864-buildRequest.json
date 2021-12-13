@@ -1,0 +1,64 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e982ded55dde02579b4dbf62664d7863304"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e989701d266f4f59195653d2830c15ef1f7"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c98ba55e1f2fc9a459065d67e976894a"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98f7303a696ab2bf95a1941b157cf4bb3a"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98ddcb26e94c9dab2a3bf158f8571694f6"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98655410580f80368f6080e8b07cf38db5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e983e78e5c839d22b7ead1801bdcac31610"
+    }
+  ],
+  "containerPath" : "/Users/ilginbedir/Desktop/Mobile/TalkyTurkey_V1/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/ilginbedir/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ilginbedir/Library/Developer/Xcode/DerivedData/Pods-gsjsorafdykqbhfxsoxdkacyecqb/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ilginbedir/Library/Developer/Xcode/DerivedData/Pods-gsjsorafdykqbhfxsoxdkacyecqb/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

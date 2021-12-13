@@ -1,0 +1,12 @@
+Target dependency graph (7 targets)
+AFNetworking-framework in Pods, no dependencies
+AFNetworking-library in Pods, no dependencies
+OSSSpeechKit-framework-OSSSpeechKit in Pods, no dependencies
+OSSSpeechKit-framework in Pods, depends on:
+OSSSpeechKit-framework-OSSSpeechKit in Pods (explicit)
+OSSSpeechKit-library-OSSSpeechKit in Pods, no dependencies
+OSSSpeechKit-library in Pods, depends on:
+OSSSpeechKit-library-OSSSpeechKit in Pods (explicit)
+Pods-TalkyTurkey_V1 in Pods, depends on:
+AFNetworking-framework in Pods (explicit)
+OSSSpeechKit-framework in Pods (explicit)
